@@ -1,0 +1,3 @@
+Animated Sort Algorithms
+
+Shows the behavior of these sorts: *Bubble*, *Cocktail Shaker*, *Insert*, *Improved Insert*, *Shell*, *Heap*, and three versions of *Quick". Download is 7.5 kB. Have fun...
